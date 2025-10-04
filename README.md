@@ -1,4 +1,5 @@
-<img src="[[https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="100](https://github.com/CATTUONG93/CATTUONG93/blob/main/473099361_1328696874986516_576253237885647022_n.jpg)]([https://www.facebook.com/share/1HfduJBTcs/](https://github.com/CATTUONG93/CATTUONG93/blob/main/473099361_1328696874986516_576253237885647022_n.jpg))">
+![Profile Image](https://github.com/CATTUONG93/CATTUONG93/blob/main/473099361_1328696874986516_576253237885647022_n.jpg)
+
 # 👋 Hi, I'm Cát Tường  
 
 🎓 Currently a **Multimedia Technology student at PTIT HCMC**  
